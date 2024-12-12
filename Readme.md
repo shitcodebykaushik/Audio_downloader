@@ -39,4 +39,4 @@ If you want to modify or rebuild the tool:
 2. Install required libraries:
    ```bash
    pip install yt-dlp pyinstaller
-3. Clone the project from the github [url]("https://github.com/shitcodebykaushik/Audio_downloader.git")
+3. Click one the Git-clone to clone this project from the github [Git-clone](https://github.com/shitcodebykaushik/Audio_downloader.git).
